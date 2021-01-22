@@ -2,10 +2,10 @@
 
 * Explore using German Tweets for Sentiment Analysis
 
-# Labelled Data Sets
+# Data Sets
 
 * PotTS: https://github.com/WladimirSidorenko/PotTS (PotTS-master.zip)
-* DAI - Annotierter Twitter Sentiment Datensatz : sentiment_evaluation_dataset.zip
+* DAI - Annotierter Twitter Sentiment Datensatz : sentiment_evaluation_dataset.zip (readme http://dainas.aot.tu-berlin.de/~andreas@dai/sentiment/readme.txt)
 * SB-10k: German Sentiment Corpus : SB-10k_german2vec-master.zip
 * Twitter Sentiment in 15 European Languages: Twitter sentiment for 15 European languages.zip
 * Open-dataset-for-sentiment-analysis (ODaSa) betsentiment-DE-tweets-sentiment-players.zip
@@ -15,7 +15,7 @@
 
 * Logistic Regression
 * Naive Bayes
-* Deep Learning : (specifically)
+* Deep Learning : (??)
 
 
 # Results
